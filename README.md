@@ -2,20 +2,13 @@
 
 RecyclerView3
 
-![screenshot 1]()
+![screenshot 1](https://github.com/cintaberliana/RecyclerView3/blob/master/RV3.1.jpg)
 
-![screenshot 2]()
+![screenshot 2](https://github.com/cintaberliana/RecyclerView3/blob/master/RV3.2.jpg)
 
-![screenshot 3]()
+![screenshot 3](https://github.com/cintaberliana/RecyclerView3/blob/master/RV3.3.jpg)
 
-![screenshot 4]()
-
-![screenshot 5]()
-
-![screenshot 6]()
-
-![screenshot 7]()
-
+![screenshot 4](https://github.com/cintaberliana/RecyclerView3/blob/master/RV3.4.jpg)
 
 
 Nama : Cinta Berliana Anggelah
